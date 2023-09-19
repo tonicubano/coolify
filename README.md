@@ -1,4 +1,4 @@
-# About the Project
+# About this Project
 
 Coolify is an open-source & self-hostable alternative to Heroku / Netlify / Vercel / etc. 
 
